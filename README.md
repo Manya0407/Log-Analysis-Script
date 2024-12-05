@@ -7,9 +7,9 @@ This project is a Python script that processes server log files to extract key i
 
 # The script is intended for log analysis tasks, commonly used in cybersecurity for detecting potential threats and analyzing server traffic.
 # Requirements
-Python 3.x
-Pandas (for data handling)
-Git (optional, for version control)
+1.Python 3.x
+2.Pandas (for data handling)
+3.Git (optional, for version control)
 
 
 # Notes:
